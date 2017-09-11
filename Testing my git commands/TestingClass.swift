@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TestingClass.swift
 //  Testing my git commands
 //
 //  Created by Ruben Garcia on 8/30/17.
@@ -8,18 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TestingClass: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-    
-        print("Hello world")
         
-        print("this is part of the second commit")
-        
-        print("I'm adding another line for this commit")
-    
+        print("Is just to make tests")
     
     
     }
@@ -27,6 +22,6 @@ class ViewController: UIViewController {
 
     
     
+    
 
 }
-
